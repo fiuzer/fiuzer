@@ -5,9 +5,9 @@
 - 💼 Em busca da primeira oportunidade na área Tech.
 - 🌱 Aprendendo mais sobre Python.
 
-## Minhas Skills
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Minhas Skills
 
 **Linguagens de programação**
 
