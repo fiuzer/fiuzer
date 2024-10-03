@@ -5,6 +5,7 @@
 - 💼 Em busca da primeira oportunidade na área Tech.
 - 🌱 Aprendendo mais sobre Python.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Minhas Skills
 
 **Linguagens de programação**
@@ -32,11 +33,15 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br/>
 
 <a href="https://github.com/fiuzer" title="Perfil do Fiuza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fiuzer&theme=dracula&show_icons=true" />
 </a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Onde me encontrar
 
