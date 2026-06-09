@@ -26,10 +26,8 @@ I enjoy turning repetitive, manual processes into clean automated solutions.
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fiuzer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiuzer&layout=compact&theme=dark&hide_border=true"/>
-</p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=fiuzer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiuzer&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
 
 ---
 
