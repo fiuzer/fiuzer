@@ -1,52 +1,56 @@
-## Sobre mim
+# Hi, I'm Guilherme Fiuza 👋
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na **Faculdade Impacta**.
-- 💼 Em busca da primeira oportunidade na área Tech.
-- 🌱 Aprendendo mais sobre Python.
+Python developer focused on automation, web scraping, and system integration.
+I enjoy turning repetitive, manual processes into clean automated solutions.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## Minhas Skills
+### 🛠️ Tech Stack
 
-**Linguagens de programação**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+### 📌 What I'm working on
 
-**Utilidades**
+- Building automation tools for small businesses
+- Developing my freelance portfolio
+- Studying Python ecosystem deeper (APIs, data pipelines)
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+---
 
-**DevOps**
+### 📊 GitHub Stats
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fiuzer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiuzer&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
-**Ferramentas de desenvolvimento**
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+### 🔗 Find me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fiuzer-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fiuzer)
+[![Instagram](https://img.shields.io/badge/Instagram-@ofiuzer-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ofiuzer)
 
-<br/>
+---
 
-<a href="https://github.com/fiuzer" title="Perfil do Fiuza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fiuzer&theme=dracula&show_icons=true" />
-</a>
+<sub>📍 São Paulo, BR &nbsp;•&nbsp; Open to freelance projects & remote opportunities</sub>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## Onde me encontrar
+> *"Automating the boring stuff, one script at a time."*
 
-[![Linkedin](https://img.shields.io/badge/-Fiuza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gdev-guilherme/)
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:guilherme.fiuza@aluno.faculdadeimpacta.com.br)
-[![GitHub](https://img.shields.io/github/followers/fiuzer?label=follow&style=social)](https://github.com/fiuzer)
-![](https://komarev.com/ghpvc/?username=fiuzer&color=006bed)
+---
+
+### Olá, sou o Guilherme Fiuza 👋
+
+Desenvolvedor Python focado em automação de processos, web scraping e integração de sistemas.
+Gosto de transformar tarefas manuais e repetitivas em soluções automatizadas e eficientes.
+
+Aberto a projetos freelance e oportunidades remotas.
